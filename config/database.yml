@@ -27,5 +27,5 @@ production:
   database: <%= ENV['postgres'] %>
   username: <%= ENV['username'] %>
   password: <%= ENV['password'] %>
-  host: <%= ENV['aa3b05txl5ywi9.cob8wmah4wkb.us-east-1.rds.amazonaws.com '] %>
+  host: <%= ENV['aa3b05txl5ywi9.cob8wmah4wkb.us-east-1.rds.amazonaws.com'] %>
   port: <%= ENV['5432'] %>
